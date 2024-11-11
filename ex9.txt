@@ -4,3 +4,8 @@ hello
 hi good morning
 we are using git bash
 welcome to git lab
+<<<<<<< HEAD
+=======
+reverting
+good afternoon
+>>>>>>> 514afb3172d1adcc214d56449b8a1b50098ec282
